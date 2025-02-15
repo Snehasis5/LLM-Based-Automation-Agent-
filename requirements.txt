@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+Pillow
+sentence-transformers
+sqlite-utils
+beautifulsoup4
+pydub
+openai-whisper
+gitpython
+markdown
